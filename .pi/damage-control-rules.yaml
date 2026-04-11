@@ -241,7 +241,6 @@ readOnlyPaths:
   - .next/
   - .nuxt/
   - .output/
-  - node_modules/
   - __pycache__/
   - .venv/
   - venv/
