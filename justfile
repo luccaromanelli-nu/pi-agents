@@ -105,3 +105,10 @@ all:
     just open damage-control minimal theme-cycler
     just open agent-chain theme-cycler
     just open pi-pi theme-cycler
+
+
+# ── Harness Scaffolding ───────────────────────────
+
+# Create a new Pi harness project (interactive)
+new:
+    ./scripts/scaffold-harness.sh
